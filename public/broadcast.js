@@ -4,11 +4,11 @@ const config = {
     { 
       "urls": "stun:stun.l.google.com:19302",
     },
-    // { 
-    //   "urls": "turn:TURN_IP?transport=tcp",
-    //   "username": "TURN_USERNAME",
-    //   "credential": "TURN_CREDENTIALS"
-    // }
+    { 
+      "urls": "turn:178.79.147.191?transport=tcp",
+      "username": "jonathan",
+      "credential": "insecure-not-very-good-really"
+    }
   ]
 };
 
